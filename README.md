@@ -1,4 +1,5 @@
-#CLI Cricket Game
+CLI Cricket Game
+
 A simple command-line cricket game implemented in Python. This game simulates a cricket match where you can play against the computer. It's a fun way to enjoy the sport of cricket through your terminal.
 
 Features : 
