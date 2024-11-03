@@ -22,7 +22,7 @@ A Python-based cricket game where players can choose their team, play against a 
 1. Clone the repository or download the script file directly:
 
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/JahaganapathiSugumar/CLI_Cricket_Game.git>
    ```
    
    Alternatively, download the script as a `.py` file:
